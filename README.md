@@ -7,13 +7,13 @@
 
 ##  Projetos em Destaque
 
-- **[Projeto Locadora]()**  
-   Breve descrição do projeto e principais funcionalidades.
+- **[Projeto RPG](https://github.com/Honeyzz1/Projeto_RPG.git)**  
+   Jogo feito apenas utilizando html
 
 - **[Calendario]()**  
    Calendario web utilizado Js, Css e Html
 
-- **[Relógio]()**
+- **[Relógio](https://github.com/Honeyzz1/Projeto_relogio.git)**
 -  Relógio feito utilizado as funções Js, Css e Html  
    
 
