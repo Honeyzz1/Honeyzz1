@@ -16,7 +16,7 @@
 - **[Relógio](https://github.com/Honeyzz1/Projeto_relogio.git)**
 -  Relógio feito utilizado as funções Js, Css e Html
 
--  **[Setembro Amarelo](https://honeyzz1.github.io/PJT_SetembroAmarelo/)
+- **[Setembro Amarelo](https://honeyzz1.github.io/PJT_SetembroAmarelo/)**
    
 
 ---
